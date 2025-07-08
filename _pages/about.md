@@ -71,7 +71,7 @@ Sparse3D adopts a Sparse Encoding Module for details preservation and an Adversa
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2024 oral</div><img src='images/GPLD3D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2024 Oral</div><img src='images/GPLD3D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GPLD3D: Latent diffusion of 3d shape generative models by enforcing geometric and physical priors](https://openaccess.thecvf.com/content/CVPR2024/papers/Dong_GPLD3D_Latent_Diffusion_of_3D_Shape_Generative_Models_by_Enforcing_CVPR_2024_paper.pdf)
@@ -81,6 +81,20 @@ Yuan Dong\*, **Qi Zuo\***, Xiaodong Gu, Weihao Yuan, Zhengyi Zhao, Zilong Dong, 
 [**Project**](https://aigc3d.github.io/GPLD3D/)
 
 A novel latent diffusion shape-generative model regularized by a quality checker that outputs a score of a latent code.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2024 Highlight</div><img src='images/RichDreamer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RichDreamer: A generalizable normal-depth diffusion model for detail richness in text-to-3d](https://openaccess.thecvf.com/content/CVPR2024/papers/Qiu_RichDreamer_A_Generalizable_Normal-Depth_Diffusion_Model_for_Detail_Richness_in_CVPR_2024_paper.pdf)
+
+Lingteng Qiu\*, Guanying Chen\*, Xiaodong G\*, **Qi Zuo**, Mutian Xu, Yushuang Wu, Weihao Yuan, Zilong Dong, Liefeng Bo, Xiaoguang Han†
+
+[**Project**](https://aigc3d.github.io/richdreamer/)\|[![Code](https://img.shields.io/github/stars/modelscope/RichDreamer?label=Github%20%E2%98%85&logo=github&color=C8C)](https://github.com/modelscope/RichDreamer)
+
+A novel normal-depth distillation-based latent diffusion generative model.
+
 </div>
 </div>
 
