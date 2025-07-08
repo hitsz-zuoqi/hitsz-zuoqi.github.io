@@ -52,6 +52,8 @@ LHM reconstructs an animatable human avatar in a single feed-forward pass in sec
 
 Lingteng Qiu\*, Shenhao Zhu\*, **Qi Zuo\***, Xiaodong Gu\*, Yuan Dong, Junfei Zhang, Chao Xu, Zhe Li, Weihao Yuan, Liefeng Bo, Guanying Chen, Zilong Dong
 
+[**Project**](https://lingtengqiu.github.io/2024/AniGS/)\|[![Code](https://img.shields.io/github/stars/aigc3d/LHM?label=Github%20%E2%98%85&logo=github&color=C8C)](https://github.com/aigc3d/AniGS)
+
 AniGS leverages the power of generative models to produce detailed multi-view canonical pose images, which help resolve ambiguities in animatable human reconstruction.
 </div>
 </div>
