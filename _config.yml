@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Qi Zuo"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Master at Harbin Institute of Technology, ShenZhen, China. Focusing on machine learning and deep learning."
+repository               : "hitsz-zuoqi/hitsz-zuoqi.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=UDnHe2IAAAAJ&hl=zh-CN"
-  email            : "muyuan.zq@alibaba-inc.com"
+  email            : "gmall.zq.hitsz@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : hitsz-zuoqi
   google_plus      :
   keybase          :
   instagram        :
