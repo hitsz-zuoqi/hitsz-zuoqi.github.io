@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qi Zuo"
+title                    : "Qi Zuo (左琪)"
 description              : "Master at Harbin Institute of Technology, ShenZhen, China. Focusing on machine learning and deep learning."
 repository               : "hitsz-zuoqi/hitsz-zuoqi.github.io"
 google_scholar_stats_use_cdn : true
