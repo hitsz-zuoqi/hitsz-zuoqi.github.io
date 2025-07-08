@@ -127,7 +127,7 @@ A novel normal-depth distillation-based latent diffusion generative model.
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.07* Alibaba Cloud x Intel: International Challenge of Media AI. (<img src='../images/first.jpg' style='width: 2em;'> Champion)
+- *2021.07* <img src='../images/CloudAlibaba.png' style='width: 2em;'> x <img src='../images/intel.png' style='width: 2em;'>: International Challenge of Media AI. (<img src='../images/first.jpg' style='width: 2em;'> Champion)
 - *2020.10* AI Fintech Competetion of Webank <img src='../images/WeBank.png' style='width: 5em;'>. (<img src='../images/second.jpg' style='width: 2em;'>runner-up)
 
 # 📖 Educations
