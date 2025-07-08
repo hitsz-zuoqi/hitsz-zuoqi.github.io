@@ -129,6 +129,7 @@ A novel normal-depth distillation-based latent diffusion generative model.
 # 🎖 Honors and Awards
 - *2021.07* <img src='../images/CloudAlibaba.png' style='width: 2em;'> x <img src='../images/intel.png' style='width: 2em;'>: International Challenge of Media AI. (<img src='../images/first.jpg' style='width: 2em;'> Champion)
 - *2020.10* AI Fintech Competetion of Webank <img src='../images/WeBank.png' style='width: 5em;'>. (<img src='../images/second.jpg' style='width: 2em;'>runner-up)
+- *2018.08* <img src='../images/NXP.png' style='width: 2em;'> NXP(13th)  Cup National Undergraduate Intelligent Vehicle Competition. (National First Prize)
 
 # 📖 Educations
 - *2019.06 - 2022.01*, Master, HITSZ. 
