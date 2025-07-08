@@ -45,6 +45,17 @@ Guanying Chen†, Zilong Dong†, Liefeng Bo
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2025</div><img src='images/AniGS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction](https://arxiv.org/abs/2412.02684)
+
+Lingteng Qiu\*, Shenhao Zhu\*, **Qi Zuo\***, Xiaodong Gu\*, Yuan Dong, Junfei Zhang, Chao Xu, Zhe Li, Weihao Yuan, Liefeng Bo, Guanying Chen, Zilong Dong
+
+-  AniGS leverages the power of generative models to produce detailed multi-view canonical pose images, which help resolve ambiguities in animatable human reconstruction.
+</div>
+</div>
+
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
