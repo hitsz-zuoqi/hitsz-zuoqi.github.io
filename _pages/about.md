@@ -58,6 +58,19 @@ AniGS leverages the power of generative models to produce detailed multi-view ca
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV2025</div><img src='images/Sparse3D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[High-Fidelity 3D Textured Shapes Generation by Sparse Encoding and Adversarial Decoding](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01495.pdf)
+
+Qi Zuo\*, Xiaodong Gu\*, Yuan Dong\*, Zhengyi Zhao, Weihao Yuan, Lingteng Qiu, Liefeng Bo, Zilong Dong†
+
+[**Project**](https://aigc3d.github.io/Sparse3D/)
+
+Sparse3D adopts a Sparse Encoding Module for details preservation and an Adversarial Decoding Module for better shape recovery.
+</div>
+</div>
+
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
