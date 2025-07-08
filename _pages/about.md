@@ -40,8 +40,8 @@ Guanying Chen†, Zilong Dong†, Liefeng Bo
 
 [**Project**](https://aigc3d.github.io/projects/LHM/)\|[![Code](https://img.shields.io/github/stars/aigc3d/LHM?label=Github%20%E2%98%85&logo=github&color=C8C)](https://github.com/aigc3d/LHM)\|[![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace_Space-blue)](https://huggingface.co/spaces/DyrusQZ/LHM)\|
 [![ModelScope](https://img.shields.io/badge/%20ModelScope%20-Space-blue)](https://www.modelscope.cn/studios/Damo_XR_Lab/LHM) 
--  LHM reconstructs an animatable human avatar in a
- single feed-forward pass in seconds. The resulting model supports real-time rendering and pose-controlled animation.
+
+LHM reconstructs an animatable human avatar in a single feed-forward pass in seconds. The resulting model supports real-time rendering and pose-controlled animation.
 </div>
 </div>
 
