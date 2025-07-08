@@ -63,7 +63,7 @@ AniGS leverages the power of generative models to produce detailed multi-view ca
 
 [High-Fidelity 3D Textured Shapes Generation by Sparse Encoding and Adversarial Decoding](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01495.pdf)
 
-Qi Zuo\*, Xiaodong Gu\*, Yuan Dong\*, Zhengyi Zhao, Weihao Yuan, Lingteng Qiu, Liefeng Bo, Zilong Dong†
+**Qi Zuo\***, Xiaodong Gu\*, Yuan Dong\*, Zhengyi Zhao, Weihao Yuan, Lingteng Qiu, Liefeng Bo, Zilong Dong†
 
 [**Project**](https://aigc3d.github.io/Sparse3D/)
 
