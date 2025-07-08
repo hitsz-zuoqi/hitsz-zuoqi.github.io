@@ -128,7 +128,7 @@ A novel normal-depth distillation-based latent diffusion generative model.
 
 # 🎖 Honors and Awards
 - *2021.07* <img src='../images/CloudAlibaba.png' style='width: 2em;'> x <img src='../images/intel.png' style='width: 2em;'>: International Challenge of Media AI. (<img src='../images/first.jpg' style='width: 2em;'> Champion)
-- *2020.10* AI Fintech Competetion of Webank <img src='../images/WeBank.png' style='width: 5em;'>. (<img src='../images/second.jpg' style='width: 2em;'>runner-up)
+- *2020.10* AI Fintech Competetion of Webank <img src='../images/WeBank.png' style='width: 2em;'>. (<img src='../images/second.jpg' style='width: 2em;'>runner-up)
 - *2018.08* <img src='../images/NXP.png' style='width: 2em;'> NXP(13th)  Cup National Undergraduate Intelligent Vehicle Competition. (National First Prize)
 
 # 📖 Educations
@@ -140,4 +140,4 @@ A novel normal-depth distillation-based latent diffusion generative model.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2021.01 - 2021.08*, <img src='../images/Tencent.jpg' style='width: 5em;'> AI Platform Department, China.
+- *2021.01 - 2021.08*, <img src='../images/Tencent.jpg' style='width: 3em;'> AI Platform Department, China.
