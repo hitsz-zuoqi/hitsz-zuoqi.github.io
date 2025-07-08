@@ -58,7 +58,7 @@ AniGS leverages the power of generative models to produce detailed multi-view ca
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV2025</div><img src='images/Sparse3D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV2024</div><img src='images/Sparse3D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [High-Fidelity 3D Textured Shapes Generation by Sparse Encoding and Adversarial Decoding](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01495.pdf)
@@ -68,6 +68,19 @@ AniGS leverages the power of generative models to produce detailed multi-view ca
 [**Project**](https://aigc3d.github.io/Sparse3D/)
 
 Sparse3D adopts a Sparse Encoding Module for details preservation and an Adversarial Decoding Module for better shape recovery.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2024 oral</div><img src='images/GPLD3D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GPLD3D: Latent diffusion of 3d shape generative models by enforcing geometric and physical priors](https://openaccess.thecvf.com/content/CVPR2024/papers/Dong_GPLD3D_Latent_Diffusion_of_3D_Shape_Generative_Models_by_Enforcing_CVPR_2024_paper.pdf)
+
+Yuan Dong\*, **Qi Zuo\***, Xiaodong Gu, Weihao Yuan, Zhengyi Zhao, Zilong Dong, Liefeng Bo, Qixing Huang†
+
+[**Project**](https://aigc3d.github.io/GPLD3D/)
+
+A novel latent diffusion shape-generative model regularized by a quality checker that outputs a score of a latent code.
 </div>
 </div>
 
