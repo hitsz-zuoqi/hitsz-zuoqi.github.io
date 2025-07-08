@@ -28,7 +28,7 @@ redirect_from:
 - *2025.04*: &nbsp;🎉🎉 Celebrate! Our GitHub project [LHM](https://github.com/aigc3d/LHM) has reached **2000 stars**!
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025!
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/lhm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -97,6 +97,32 @@ A novel normal-depth distillation-based latent diffusion generative model.
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV2023</div><img src='images/DG3D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DG3D: Generating High Quality 3D Textured Shapes by Learning to Discriminate Multi-Modal Diffusion-Renderings](https://openaccess.thecvf.com/content/ICCV2023/papers/Zuo_DG3D_Generating_High_Quality_3D_Textured_Shapes_by_Learning_to_ICCV_2023_paper.pdf)
+
+**Qi Zuo\***, Yafei Song, Jianfang Li, Lin Liu, Liefeng Bo†
+
+DG3D incorporates a diffusion-based augmentation module into the min-max game between the 3D tetrahedral mesh generator and 2D renderings discriminators, which stabilizes network optimization and prevents mode collapse in vanilla GANs.
+
+</div>
+</div>
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2024 Highlight</div><img src='images/StableNormal.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RichDreamer: A generalizable normal-depth diffusion model for detail richness in text-to-3d](https://openaccess.thecvf.com/content/CVPR2024/papers/Qiu_RichDreamer_A_Generalizable_Normal-Depth_Diffusion_Model_for_Detail_Richness_in_CVPR_2024_paper.pdf)
+
+Lingteng Qiu\*, Guanying Chen\*, Xiaodong G\*, **Qi Zuo**, Mutian Xu, Yushuang Wu, Weihao Yuan, Zilong Dong, Liefeng Bo, Xiaoguang Han†
+
+[**Project**](https://aigc3d.github.io/richdreamer/)\|[![Code](https://img.shields.io/github/stars/modelscope/RichDreamer?label=Github%20%E2%98%85&logo=github&color=C8C)](https://github.com/modelscope/RichDreamer)
+
+A novel normal-depth distillation-based latent diffusion generative model.
+
+</div>
+</div> -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
