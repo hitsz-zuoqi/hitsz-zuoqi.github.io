@@ -19,11 +19,12 @@ redirect_from:
 
  I work at Institute for Tongyi Lab <img src='../images/tongyi.png' style='width: 1.5em;'>, Alibaba Group, as a 3D vision researcher now in Hangzhou.
 
- I graduated from Xiamen University with a bachelor’s degree and HITSZ with a master's degree, advised by Prof. [Xiaojun Wu](https://scholar.google.com/citations?hl=zh-CN&user=nFGuFc4AAAAJ). Currently, my research topic is 3D vision, with a particular focus on 3D generation and human avatar. 
+ I graduated from Xiamen University with a bachelor’s degree and HITSZ with a master's degree, advised by Prof. [Xiaojun Wu](https://scholar.google.com/citations?hl=zh-CN&user=nFGuFc4AAAAJ). Between 2022-2025, my research topic is 3D vision, with a particular focus on 3D generation and human avatar. In the future, I will work on LLM applications as a member of Ant Group.
 
 
 
 # 🔥 News
+- *2025.07*: &nbsp;I will become a member of Ant Group <img src='../images/Ant.png' style='width: 1.5em;'> this summer. New journey starts!
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025!
 - *2025.04*: &nbsp;🎉🎉 Celebrate! Our GitHub project [LHM](https://github.com/aigc3d/LHM) has reached **2000 stars**!
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025!
@@ -127,7 +128,7 @@ A novel normal-depth distillation-based latent diffusion generative model.
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.07* <img src='../images/CloudAlibaba.png' style='width: 2em;'> x <img src='../images/intel.png' style='width: 2em;'>: International Challenge of Media AI. (<img src='../images/first.jpg' style='width: 2em;'> Champion)
+- *2021.07* <img src='../images/CloudAlibaba.png' style='width: 2em;'> x <img src='../images/intel.png' style='width: 2em;'> International Challenge of Media AI. (<img src='../images/first.jpg' style='width: 2em;'> Champion)
 - *2020.10* AI Fintech Competetion of Webank <img src='../images/WeBank.png' style='width: 2em;'>. (<img src='../images/second.jpg' style='width: 2em;'>runner-up)
 - *2018.08* <img src='../images/NXP.png' style='width: 2em;'> NXP(13th)  Cup National Undergraduate Intelligent Vehicle Competition. (National First Prize)
 
@@ -140,4 +141,5 @@ A novel normal-depth distillation-based latent diffusion generative model.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+- *2022.01 - 2025.07*, <img src='../images/tongyi.jpg' style='width: 3em;'> Institute of Intelligent Computing, Alibaba.
 - *2021.01 - 2021.08*, <img src='../images/Tencent.jpg' style='width: 3em;'> AI Platform Department, China.
