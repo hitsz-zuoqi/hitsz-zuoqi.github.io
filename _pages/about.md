@@ -141,5 +141,5 @@ A novel normal-depth distillation-based latent diffusion generative model.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2022.01 - 2025.07*, <img src='../images/tongyi.png' style='width: 3em;'> Institute of Intelligent Computing, Alibaba.
+- *2022.01 - 2025.07*, <img src='../images/tongyi.png' style='width: 1.5em;'> Institute of Intelligent Computing, Alibaba.
 - *2021.01 - 2021.08*, <img src='../images/Tencent.jpg' style='width: 3em;'> AI Platform Department, China.
