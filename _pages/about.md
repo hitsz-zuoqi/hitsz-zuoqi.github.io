@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
- I work at Institute for Tongyi Lab <img src='../images/tongyi.png' style='width: 1.5em;'>, Alibaba Group, as a 3D vision researcher now in Hangzhou.
-
- I graduated from Xiamen University with a bachelor’s degree and HITSZ with a master's degree, advised by Prof. [Xiaojun Wu](https://scholar.google.com/citations?hl=zh-CN&user=nFGuFc4AAAAJ). Between 2022-2025, my research topic is 3D vision, with a particular focus on 3D generation and human avatar. In the future, I will work on LLM applications as a member of Ant Group.
+ I graduated from Xiamen University with a bachelor’s degree and HITSZ with a master's degree, advised by Prof. [Xiaojun Wu](https://scholar.google.com/citations?hl=zh-CN&user=nFGuFc4AAAAJ). Between 2022-2025, I work at Institute for Tongyi Lab <img src='../images/tongyi.png' style='width: 1.5em;'>, Alibaba Group, as a vision researcher in Hangzhou. In the future, I will work on LLM applications as a member of Ant Group in ChengDu.
 
 
 
