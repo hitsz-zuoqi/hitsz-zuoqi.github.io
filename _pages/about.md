@@ -22,6 +22,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 One paper(HyPlaneHead) is accepted by NIPS 2026!
 - *2025.07*: &nbsp;I will become a member of Ant Group <img src='../images/Ant.png' style='width: 3.0em;'> this summer. New journey starts!
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025!
 - *2025.04*: &nbsp;🎉🎉 Celebrate! Our GitHub project [LHM](https://github.com/aigc3d/LHM) has reached **2000 stars**!
