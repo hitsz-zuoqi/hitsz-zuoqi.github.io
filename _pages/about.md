@@ -22,6 +22,8 @@ redirect_from:
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper(InfiMed-ORBIT) is accepted by ICML 2026! Congratulations to PengKai~
+- *2026.02*: &nbsp;🎉🎉 One paper(Condition Matters ...) is accepted by ICLR 2026!
 - *2025.10*: &nbsp;🎉🎉 One paper(HyPlaneHead) is accepted by NIPS 2025!
 - *2025.07*: &nbsp;I will become a member of Ant Group <img src='../images/Ant.png' style='width: 3.0em;'> this summer. New journey starts!
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025!
